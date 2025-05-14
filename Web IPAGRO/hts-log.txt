@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 14 May 2025 14:49:53 at https://sites.google.com/view/teatro-ipagro/inicio +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sites.google.com/view/teatro-ipagro/inicio -O1 "C:\Users\Daniu\Desktop\WEB IPAGRO\Web IPAGRO" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:50:03	Error: 	"Not Found" (404) at link https://sites.google.com/view/teatro-ipagro/POST (from https://sites.google.com/view/teatro-ipagro/inicio)
+14:50:10	Error: 	"Not Found" (404) at link https://sites.google.com/view/teatro-ipagro/2022-andalucia/POST (from https://sites.google.com/view/teatro-ipagro/2022-andalucia/guion)
+14:50:10	Error: 	"Not Found" (404) at link https://sites.google.com/view/teatro-ipagro/2023-navidad/POST (from https://sites.google.com/view/teatro-ipagro/2023-navidad/guion)
+14:50:10	Error: 	"Not Found" (404) at link https://sites.google.com/view/teatro-ipagro/2023-andalucia/POST (from https://sites.google.com/view/teatro-ipagro/2023-andalucia/guion)
+14:50:10	Error: 	"Not Found" (404) at link https://sites.google.com/view/teatro-ipagro/2023-festival/POST (from https://sites.google.com/view/teatro-ipagro/2023-festival/vídeo)
+14:50:10	Error: 	"Not Found" (404) at link https://sites.google.com/view/teatro-ipagro/2023-don-juan/POST (from https://sites.google.com/view/teatro-ipagro/2023-don-juan/vídeo)
+14:50:10	Error: 	"Not Found" (404) at link https://sites.google.com/view/teatro-ipagro/2024-puebla-de-mujeres/POST (from https://sites.google.com/view/teatro-ipagro/2024-puebla-de-mujeres/vídeo)
+14:50:10	Error: 	"Not Found" (404) at link https://sites.google.com/view/teatro-ipagro/2025-festival/POST (from https://sites.google.com/view/teatro-ipagro/2025-festival/vídeo)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 33 links scanned, 24 files written (3801068 bytes overall) [1937944 bytes received at 113996 bytes/sec], 3375947 bytes transferred using HTTP compression in 30 files, ratio 16%
+(8 errors, 0 warnings, 0 messages)
